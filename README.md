@@ -21,3 +21,5 @@ Welcome to WeatherWiz, your go-to weather app for all things meteorological! Wit
 2. ☀️ Explore the current temperature, conditions, and more at a glance.
 3. 🔄 Experience dynamic background changes based on the current weather condition.
 
+🌐 Live Demo
+Experience it live! https://weatherwizzapp.netlify.app/
